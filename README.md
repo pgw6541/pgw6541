@@ -1,5 +1,5 @@
 ## 프론트엔드 개발자 박 건우👋
-##### <span style="font-size:9px"> Park Gun-woo, front-end developer👋</span>
+#### Park Gun-woo, front-end developer👋
 
 <br />
 <br />
