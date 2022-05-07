@@ -1,6 +1,13 @@
-### Hi 👋
+## 프론트엔드 개발자 박 건우👋
+##### <span style="font-size:9px"> Park Gun-woo, front-end developer👋</span>
 
----
+<br />
+<br />
+
+
+### My Stack
+
+___
 
 <div style="display:flex">
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
@@ -11,5 +18,6 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
 
