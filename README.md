@@ -17,7 +17,5 @@ ___
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
 </div>
 
