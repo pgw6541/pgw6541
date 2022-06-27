@@ -5,7 +5,7 @@
 <br />
 
 
-### My Stack
+### My Stack 👍
 
 ___
 
@@ -21,7 +21,7 @@ ___
 
 <br />
 
-### Interests
+### Interests 😀
 
 ___
 
@@ -32,5 +32,7 @@ ___
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white">
+  <img src="https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=white">
 </div>
 
