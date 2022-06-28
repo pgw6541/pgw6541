@@ -4,7 +4,6 @@
 <br />
 <br />
 
-
 ### My Stack 👍
 
 ___
@@ -36,3 +35,7 @@ ___
   <img src="https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=white">
 </div>
 
+<br />
+<br />
+
+#####  까만 보자기 속, 언젠가 머릴 들이밀고 솟아날 콩처럼 난 한없이 더 질겨지고 있지
