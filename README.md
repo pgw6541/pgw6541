@@ -1,10 +1,13 @@
 <!-- -->
 
+<!-- https://github.com/kyechan99/capsule-render : 프로필 헤더 오픈소스 -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=26196B&height=300&section=header&text=Hi%20There!%20🖐️&fontSize=90&desc=Front%20Delveloper%20Park%20Gunwoo) -->
 
-Hi There! 🖐️
+<!-- ✅헤더 -->
 
-<!-- 뱃지 -->
+<picture><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=26196B&height=300&section=header&text=Hi%20There!%20🖐️&fontSize=72&fontColor=d6ace6&desc=FE%20Delveloper%20Gunwoo's%20Github&descAlignY=62" /></picture>
 
+<!-- ✅뱃지 -->
 <!-- <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
 <!-- 스타일 종류 : plastic, flat, flat-square, for-the-badge, social -->
 
@@ -30,5 +33,5 @@ Hi There! 🖐️
   <picture><img src="https://img.shields.io/badge/StyledComponents-black?style=flat-square&logo=styledcomponents" /></picture> <!-- StyledComponents -->
 </div>
 
-
+<!-- ✅푸터 -->
 <picture><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=26196B&height=100&section=footer" /></picture>
